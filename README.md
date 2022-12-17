@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development, cloud things, and businesses
 - 🌱 I’m currently learning Linux, Python, Cloud (Azure/AWS)
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me https://www.linkedin.com/in/frankely/
 
 <!---
 frankelitoc/frankelitoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
