@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m @frankelitoc
 - 👀 I’m interested in software development, cloud things, and businesses
-- 🌱 I’m currently learning HashiCorp Vault
 - 📫 How to reach me frank15ortiz@aol.com
 
 Find out more about me & feel free to connect with me here:
