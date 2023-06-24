@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 📝 I regularly write articles on [https://blog.madebyfrankely.com/](https://blog.madebyfrankely.com/)
+- 📝 I regularly write articles on [https://madebyfrankely.com/](https://madebyfrankely.com/)
 
 - 📫 How to reach me **frank15ortiz@aol.com**
 
