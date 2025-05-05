@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frankie</h1>
-<h3 align="center">A passionate Software Engineer / DevOps Engineer / MLOps Engineer from Florida</h3>
+<h3 align="center">A passionate Software Engineer / DevOps Engineer / AI/MLOps Engineer from Florida</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankelitoc" alt="frankelitoc" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps Tools / MLOps**
+- 🌱 I’m currently learning **DevOps Tools / MLOps / AI**
 
 - 📝 I regularly write articles on [https://madebyfrankely.com/](https://madebyfrankely.com/)
 
